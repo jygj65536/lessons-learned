@@ -20,6 +20,7 @@ Github Learning Lab에서 issue를 통해 정보를 알려주는 것에서 착�
 #### 한 일
   - 모두를 위한 딥러닝: 3강
 
+
 #### 할 일
   - 알고리즘 문제해결 전략: 6장
   - Issue를 통한 to-do list 작성
