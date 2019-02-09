@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "서울은 놀기(에는) 좋은 곳"
+title: "서울은 (놀는) 좋은 곳"
 categories: misc
 ---
 
