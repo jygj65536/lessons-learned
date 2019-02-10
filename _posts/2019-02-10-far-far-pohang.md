@@ -16,4 +16,4 @@ categories: misc
 
 ![My helpful screenshot](/assets/screenshot.png)
 
-![My helpful screenshot]({{ "/assets/screenshot.jpg" | absolute_url }})
+![My helpful screenshot]({{ "/assets/screenshot.png" | absolute_url }})
