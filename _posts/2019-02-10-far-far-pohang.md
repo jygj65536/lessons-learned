@@ -4,7 +4,7 @@ title: "다시 시작"
 categories: misc
 ---
 
-이미지를 첨부하는 방법을 테스트하는 중이다.
+이미지를 첨부 테스트
 
 ![Markdown-cheatsheet](/assets/Screenshot from 2019-02-10 10-50-11.png)
 
@@ -13,3 +13,5 @@ categories: misc
 ![Markdown-cheatsheet3](lessons-learned/assets/Screenshot from 2019-02-10 10-50-11.jpg)
 
 ![My helpful screenshot](/assets/test.jpg)
+
+![My helpful screenshot](/assets/test.png)
