@@ -6,7 +6,11 @@ categories: misc
 
 이미지를 첨부하는 방법을 찾았다. 앞으로 이미지를 사용하여 공부한 내용을 정리할 수 있을 것 같다.
 
+
+
 ![My helpful screenshot]({{ "/assets/screenshot.png" | absolute_url }})
+
+
 
 쉽지 않았다. Markdown과 Jekyll의 문법이 또 달라서 헤멨다. 즉, 내가 포스트를 작성할 때 필요한 문법은 Markdown문법과 비슷하지만, 분명 다른 부분이 있다. 위 이미지를 삽입하는 데에도 유의해야 할 점이 몇 가지 있었는데, 1)파일명에 space가 들어가면 안된다.(이건 Markdown에서도 공통) 2)Markdown에 이미지를 삽입하는 방식으로 경로를 지정해줘도 페이지에서는 나오지 않는다. `absolute_url`필터를 붙여줘야 한다.
 
