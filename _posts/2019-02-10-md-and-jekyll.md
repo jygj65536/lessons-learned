@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "결코 다시 포항"
+title: "Markdown, Github Page, Jekyll"
 categories: misc
 ---
 
@@ -28,3 +28,5 @@ Github page는 수정한 내용이 반영되는데 딜레이가 있어서 불편
 Mardown syntax들을 시험하고 있는데, 제일 처음인 header 태그부터 거슬리는 것을 발견했다. 
 1. Enter로 간격 조절이 안 된다. 각 태그마다 자신만의 간격을 가지고 있다. 이건 원래 그랬으니 그렇다 쳐도
 2. 원래 h1부터 h6까지 크기 순으로 되어있어야 하지만 jekyll 문법에서는 h1이 따로 놀게 되어있다. h2부터 h6까지는 기존처럼 써도 되지만(약간의 차이는 있다) h1은 h3보다 조금 작아서 다른 header 태그들과 같이 쓰게 된다면 크기 순서에 혼란이 온다.
+
+(+) 어제는 Markdown은 널리 쓰이는 형식이기 때문에 Github Markdown 문법이라는게 없다고 생각했지만, [막상 그렇지도 않았다]({{ "/assets/markdown-cheatsheet-online.pdf" | absolute_url }}). Github에서만 사용가능한 Markdown 문법이라는 것이 있긴 있는 것이다. 하지만, 그게 Jekyll에서 그대로 동작할 것인지는 또 다른 문제라는 것이 귀찮은 점이다.
