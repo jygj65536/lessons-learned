@@ -38,6 +38,7 @@ Mardown syntax들을 시험하고 있는데, 제일 처음인 header 태그부�
 2. 원래 h1부터 h6까지 크기 순으로 되어있어야 하지만 jekyll 문법에서는 h1이 따로 놀게 되어있다. h2부터 h6까지는 기존처럼 써도 되지만(약간의 차이는 있다) h1은 h3보다 조금 작아서 다른 header 태그들과 같이 쓰게 된다면 크기 순서에 혼란이 온다.
 
 &nbsp;
+
 (+) 어제는 Markdown은 널리 쓰이는 형식이기 때문에 Github Markdown 문법이라는게 없다고 생각했지만, [막상 그렇지도 않았다]({{ "/assets/markdown-cheatsheet-online.pdf" | absolute_url }}). Github에서만 사용가능한 Markdown 문법이라는 것이 있긴 있는 것이다. 하지만, 그게 Jekyll에서 그대로 동작할 것인지는 또 다른 문제라는 것이 귀찮은 점이다.
 
 (++) &nbsp;로 간격 조절이 가능한 것을 확인했다. No-break space라는 뜻으로, HTML에서 여러 칸의 공백을 표시하는 데 주로 쓰인다고 하는데, 한 줄에 하나씩 치면 간격을 조절하는데 사용할 수 있다.
