@@ -11,3 +11,5 @@ categories: misc
 ![Markdown-cheatsheet2](/assets/Screenshot from 2019-02-10 10-50-11.jpg)
 
 ![Markdown-cheatsheet3](lessons-learned/assets/Screenshot from 2019-02-10 10-50-11.jpg)
+
+![My helpful screenshot](/assets/test.jpg)
