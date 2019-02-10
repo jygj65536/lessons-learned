@@ -14,4 +14,4 @@ categories: misc
 
 ![My helpful screenshot](/assets/test.jpg)
 
-![My helpful screenshot](/assets/test.png)
+![My helpful screenshot](/assets/screenshot.png)
