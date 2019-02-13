@@ -15,7 +15,8 @@ categories: misc
   1. 알고리즘 문제해결 전략 6장: PICNIC(Python)
   2. 교육 과제(Incomplete)
 
-
+&nbsp;
+&nbsp;
 -------------------------------------
 #### 할 일
   1. 교육 과제 마무리
