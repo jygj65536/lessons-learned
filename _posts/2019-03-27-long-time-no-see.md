@@ -42,3 +42,9 @@ categories: misc
   1. POCU Academy COMP3200: Unmanaged Programming
   2. Tensorflow 라이브러리 만들기
   3. Pro Git읽고 Github 사용 능숙해지기
+
+(+) 마크다운이 또 말썽이다. 똑같은 # 네 개 뒤에 공백 한칸인데 왜 '하고 싶은 일' 만 제목 처리가 안되는지 도무지 이해할 수 없는 노릇이다. 
+# 하고 싶은일
+## 하고 싶은 일
+### 하고 싶은 일
+#### 하고 싶은 일
