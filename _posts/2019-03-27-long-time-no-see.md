@@ -38,7 +38,7 @@ categories: misc
  &nbsp;
  
  ------------------------------------
- #### 하고싶은 일
+ #### 하고 싶은 일
   1. POCU Academy COMP3200: Unmanaged Programming
   2. Tensorflow 라이브러리 만들기
   3. Pro Git읽고 Github 사용 능숙해지기
